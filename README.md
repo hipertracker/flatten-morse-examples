@@ -8,7 +8,7 @@ The code was written in Ruby 2.5.1 but it should work in older versions as well.
 
 `flatten(array: data)` - as above
 
-`flatten2(array)` - as above but the implentation does not use recursion (bonus)
+`flatten2(array)` - as above but the implementation does not use the recursion (bonus)
 
 Both functions are _pure_, they don't change the source array. 
 
